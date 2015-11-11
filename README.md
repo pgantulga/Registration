@@ -1,1 +1,1 @@
-# Registration area
+# Member Registration area
